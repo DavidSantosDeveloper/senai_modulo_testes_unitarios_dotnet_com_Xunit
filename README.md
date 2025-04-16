@@ -86,7 +86,7 @@ Nesse exemplo, o teste esperava a categoria `"Peso normal"`, mas a classificaç�
 
 ### 🛠 Tecnologias Utilizadas
 
-- [.NET](https://dotnet.microsoft.com/)
+- [.NET 6.0.428](https://dotnet.microsoft.com/)
 - [C#](https://learn.microsoft.com/dotnet/csharp/)
 - [xUnit](https://xunit.net/)
 
