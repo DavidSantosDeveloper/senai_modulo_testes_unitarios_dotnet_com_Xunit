@@ -1,7 +1,3 @@
-Claro! Aqui está a versão atualizada e mais profissional, com exemplos realistas de saída do terminal usando **cores e indicações de sucesso ou falha**, como geralmente aparecem ao rodar `dotnet test`. Essa adição mostra de forma clara como o desenvolvedor pode identificar resultados esperados e valores reais em caso de erro:
-
----
-
 ## 🧪 Projeto de Testes - IMC com xUnit (.NET)
 
 Este repositório apresenta um módulo de testes automatizados utilizando o framework **xUnit** com a plataforma **.NET**, aplicado à validação de uma classe responsável pelo cálculo e classificação do IMC (Índice de Massa Corporal).
@@ -109,8 +105,3 @@ Siga os passos abaixo para compilar e rodar os testes localmente:
    dotnet test
    ```
 
-Os testes executados mostrarão no terminal quais passaram e quais falharam, com mensagens detalhadas sobre os valores esperados e os valores reais.
-
----
-
-Se quiser, posso salvar esse conteúdo direto num arquivo `README.md`. É só avisar!
