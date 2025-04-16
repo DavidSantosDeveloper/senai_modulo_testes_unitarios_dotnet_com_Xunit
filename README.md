@@ -2,6 +2,14 @@
 
 Este repositório apresenta um módulo de testes automatizados utilizando o framework **xUnit** com a plataforma **.NET**, aplicado à validação de uma classe responsável pelo cálculo e classificação do IMC (Índice de Massa Corporal).
 
+Os testes seguem a abordagem AAA (Arrange, Act, Assert), uma prática comum e recomendada para organizar testes de forma clara:
+
+Arrange (Preparar): configura os dados e objetos necessários;
+
+Act (Agir): executa o método que será testado;
+
+Assert (Verificar): valida se o resultado é o esperado.
+
 ---
 
 ### ✅ Estrutura dos Testes
